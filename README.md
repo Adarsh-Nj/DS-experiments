@@ -1,6 +1,6 @@
-# DS--experiments
+# DS-experiments
 
-This repo consists of .python notebooks for below experiments.
+This repo consists of .ipython notebooks for below experiments.
 
 1. Linear regression
 2. Logistic regression
